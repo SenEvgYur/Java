@@ -8,7 +8,7 @@
 //  */
 // public class loggirovanie {
 
-//     public static void main(String[] args) throws SecurityException, IOException {
+//     public static void loggirovanie(String[] args) throws SecurityException, IOException {
       
 //         Logger logger = Logger.getLogger(Bubble_sort.class.getName());
 //         FileHandler ar = new FileHandler("log.txt");
